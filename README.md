@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```
+`
 const aboutFelixOuma = {
     fullName: "Felix Ouma",
     origin: "Kenya 🇰🇪",
@@ -17,7 +17,7 @@ const aboutFelixOuma = {
     nowLearning: ["Full stack web developement at Microverse","Game Development at Udemy & Edx"],
     lookingForNewOpportunities: true    
 }
-```
+`
 
 <!--
 **Felix45/Felix45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
