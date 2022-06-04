@@ -21,6 +21,12 @@ const aboutFelixOuma = {
     lookingForNewOpportunities: true    
 }
 ```
+> Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&show_icons=true&theme=radical&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 > Let's Connect
 
 [![](https://img.shields.io/badge/LinkedIn-Felix%20Ouma-blue)](https://www.linkedin.com/in/felix-ouma-639766b0/)
