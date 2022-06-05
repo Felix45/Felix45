@@ -15,7 +15,8 @@ const aboutFelixOuma = {
         bachlorsDegree: "Bsc Mathematics & Computer Science",
         isCompleted: true,
     },
-    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
+    telephoneNumber: "+254724603324",
+    socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
     nowLearning: ["Full stack web developement at Microverse","Game Development at Udemy & Edx"],
     lookingForNewOpportunities: true    
