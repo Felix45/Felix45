@@ -6,6 +6,7 @@
 ```JavaScript
 const aboutFelixOuma = {
     fullName: "Felix Ouma",
+    pronouns: ["He", "Him"],
     nationality: "Kenya 🇰🇪",
     jobStatus: ["Student at Microverse"],
     hobbies: ["Playing football","Reading","Watching football","Athletics","Solving coding challenges"],
