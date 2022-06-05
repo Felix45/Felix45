@@ -10,7 +10,7 @@ const aboutFelixOuma = {
     nationality: "Kenya 🇰🇪",
     jobStatus: ["Student at Microverse"],
     hobbies: ["Playing football","Reading","Watching football","Athletics","Solving coding challenges"],
-    techStack:["Python","PHP","CSS","JavaScript","HTML","SQL"],
+    techStack:["Python","PHP","CSS","JavaScript","HTML","SQL","Bootstrap"],
     isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "Bsc Mathematics & Computer Science",
