@@ -28,12 +28,12 @@ const aboutFelixOuma = {
 |  [<img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="c logo" width="50">](https://www.php.net/) |  [<img src="https://jfdi.info/wp-content/uploads/bootstrap.png" alt="Bootsrap logo" width="50">](https://isocpp.org/)  |  [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png" alt="c logo" width="50">](https://kotlinlang.org/) |  [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" alt="c logo" width="50">](https://spring.io/) | [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png" alt="c logo" width="50">](https://spring.io/) |
 |---|---|---|---|---| -->
 
-> Statistics
+> **Statistics**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&show_icons=true&theme=radical&hide_title=true&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-> Let's Connect
+> **Let's Connect**
 
 [![](https://img.shields.io/badge/LinkedIn-Felix%20Ouma-blue)](https://www.linkedin.com/in/felix-ouma-639766b0/)
 [![](https://img.shields.io/badge/Email-Felix%20Ouma-red)](mailto:fatonoh@gmail.com)
