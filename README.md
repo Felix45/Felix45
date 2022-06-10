@@ -7,7 +7,7 @@
 const aboutFelixOuma = {
     fullName: "Felix Ouma",
     pronouns: ["He", "Him"],
-    nationality: "Kenya 🇰🇪",
+    nationality: "Kenyan 🇰🇪",
     jobStatus: ["Student at Microverse"],
     hobbies: ["Playing football","Reading","Watching football","Athletics","Solving coding challenges"],
     techStack:["Python","PHP","CSS","JavaScript","HTML","SQL","Bootstrap"],
