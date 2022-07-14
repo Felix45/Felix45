@@ -1,5 +1,5 @@
 ## Hi there 👋 
-> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" align="right" width="130">
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me<img src="https://github.com/Felix45/Felix45/blob/main/puki.png" align="right" width="120">
 
 ![](https://komarev.com/ghpvc/?username=Felix45&color=orange)
 
