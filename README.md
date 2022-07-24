@@ -9,7 +9,7 @@ const aboutFelixOuma = {
     pronouns: ["He", "Him"],
     nationality: "Kenyan 🇰🇪",
     jobStatus: ["Student at Microverse"],
-    hobbies: ["Playing football","Reading","Watching football","Athletics","Solving coding challenges"],
+    hobbies: ["Playing Football","Reading","Watching Football","Athletics","Solving Coding Challenges"],
     techStack:["Python", "PHP", "CSS", "JavaScript", "HTML", "SQL", "Bootstrap"],
     isWorkingNow: false,
     educationLevel: {
