@@ -23,10 +23,6 @@ const aboutFelixOuma = {
     lookingForNewOpportunities: true    
 }
 ```
-<!-- > Languages & Technologies
-> 
-|  [<img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="c logo" width="50">](https://www.php.net/) |  [<img src="https://jfdi.info/wp-content/uploads/bootstrap.png" alt="Bootsrap logo" width="50">](https://isocpp.org/)  |  [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png" alt="c logo" width="50">](https://kotlinlang.org/) |  [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" alt="c logo" width="50">](https://spring.io/) | [<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png" alt="c logo" width="50">](https://spring.io/) |
-|---|---|---|---|---| -->
 
 > **Statistics**
 
