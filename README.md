@@ -26,7 +26,7 @@ const aboutFelixOuma = {
 
 > **Statistics**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&show_icons=true&theme=radical&hide_title=true&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&show_icons=true&theme=radical&hide_title=true&card_width=200)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix45)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Contribution Graph**
 
