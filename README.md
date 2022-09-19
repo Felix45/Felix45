@@ -34,7 +34,7 @@ const aboutFelixOuma = {
 
 > **Let's Connect**
 
-[![](https://img.shields.io/badge/LinkedIn-Felix%20Ouma-blue)](https://www.linkedin.com/in/felix-ouma-639766b0/)
+[![](https://img.shields.io/badge/LinkedIn-Felix%20Ouma-blue)](https://www.linkedin.com/in/felix-ouma/)
 [![](https://img.shields.io/badge/Email-Felix%20Ouma-red)](mailto:fatonoh@gmail.com)
 [![](https://img.shields.io/badge/Twitter-Felix%20Ouma-blue)](https://twitter.com/Felix_Atonoh)
 
