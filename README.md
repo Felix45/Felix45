@@ -8,18 +8,19 @@ const aboutFelixOuma = {
     fullName: "Felix Ouma",
     pronouns: ["He", "Him"],
     nationality: "Kenyan 🇰🇪",
-    jobStatus: ["Student && Code Reviewer at Microverse"],
+    jobStatus: ["Code Reviewer at Microverse"],
     hobbies: ["Playing Football","Reading","Watching Football","Athletics","Solving Coding Challenges"],
     techStack:["PHP", "Python", "CSS", "JavaScript", "Ruby", "HTML", "SQL", "Bootstrap"],
     isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "Bsc Mathematics & Computer Science",
+        fullStackDeveloper: "Microverse Inc.",
         isCompleted: true,
     },
     telephoneNumber: "+254724603324",
     socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
     codingEnviroment: "Github",
-    nowLearning: ["Full stack web developement at Microverse","Game Development at Udemy & Edx"],
+    nowLearning: ["Game Development at Udemy & Edx"],
     lookingForNewOpportunities: true    
 }
 ```
