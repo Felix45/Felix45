@@ -7,8 +7,7 @@ const aboutFelixOuma = {
     nationality: "Kenyan 🇰🇪",
     jobStatus: ["Code Reviewer at Microverse"],
     hobbies: ["Playing Football","Reading",
-              "Watching Football","Athletics",
-              "Solving Coding Challenges"],
+              "Watching Football","Athletics", "Solving Coding Challenges"],
     techStack:["PHP", "Python", "CSS", "JavaScript", "Ruby", "HTML", "SQL", "Bootstrap"],
     isWorkingNow: false,
     educationLevel: {
