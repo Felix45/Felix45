@@ -11,7 +11,7 @@ const aboutFelixOuma = {
     techStack:["PHP", "Python", "CSS", "JavaScript", "Ruby", "HTML", "SQL", "Bootstrap"],
     isWorkingNow: false,
     educationLevel: {
-        bachlorsDegree: "Bsc Mathematics & Computer Science",
+        bachlorsDegree: "Bsc Mathematics & Computer Science JKUAT",
         fullStackDeveloper: "Microverse Inc.",
         isCompleted: true,
     },
