@@ -29,7 +29,7 @@ const aboutFelixOuma = {
 
 > **Contribution Graph**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=felix45&custom_title=FELIX%20OUMA%27S%20CONTRIBUTION%20GRAPH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felix45&custom_title=FELIX%20OUMA%27S%20CONTRIBUTION%20GRAPH&hide_border=true&theme=github-compact&area=true&area_color=#0000ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > **Let's Connect**
 
