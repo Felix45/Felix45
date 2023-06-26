@@ -8,7 +8,9 @@ const aboutFelixOuma = {
     jobStatus: ["Code Reviewer at Microverse"],
     hobbies: ["Playing Football","Reading",
               "Watching Football","Athletics", "Solving Coding Challenges"],
-    techStack:["PHP", "python", "CSS", "JavaScript", "Ruby", "HTML", "SQL", "Bootstrap", "REACT", "Tailwind CSS"],
+    techStack:["PHP", "python", "CSS", "JavaScript", "Ruby", "HTML", "SQL", 
+               "Bootstrap", "REACT", "Tailwind CSS"
+    ],
     isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "Bsc Mathematics & Computer Science JKUAT",
