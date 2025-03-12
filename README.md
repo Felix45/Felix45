@@ -19,7 +19,7 @@ const aboutFelixOuma = {
         isCompleted: true,
     },
     telephoneNumber: "+254724603324",
-    socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
+    socialMedias: ["LinkedIn", "Twitter"],
     codingEnviroment: "Github",
     nowLearning: ["Game Development at Udemy & Edx"],
     lookingForNewOpportunities: true    
