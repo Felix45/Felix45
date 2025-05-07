@@ -6,9 +6,11 @@
 ```JavaScript
 const aboutFelixOuma = {
     hobbies: ["Football","Reading", "Athletics", "Coding Challenges"],
-    techStack:["JavaScript/React", "Ruby/Ruby on Rails", "PHP/Laravel",
-               "Python", "TypeScript", "CSS", "HTML", "SQL", "Bootstrap", "REACT", "Tailwind CSS"
-    ],
+    techStack:{
+         "Back-End": ["Ruby/Ruby on Rails", "PHP/Laravel", "Python"],
+         "Front-End": ["JavaScript", "React", "CSS", "HTML", "Bootstrap", "Tailwind CSS"],
+         Databases: ["SQL", "MySQL", "PostgreSQL"]
+    },
     isWorkingNow: true,
     educationLevel: {
         bachlorsDegree: "Bsc Mathematics & Computer Science JKUAT",
@@ -18,7 +20,9 @@ const aboutFelixOuma = {
     telephoneNumber: "+254724603324",
     socialMedias: ["LinkedIn", "Twitter"],
     codingEnviroment: "Github",
-    nowLearning: ["Data Science & Data Analytics"],
+    currentlyExploring: [
+              "Data Science", "Drupal templating",
+              "Advanced Back-End Architecture", "System Design"],
     lookingForNewOpportunities: true    
 }
 ```
