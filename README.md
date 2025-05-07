@@ -1,18 +1,16 @@
-## Hi there  👋 
-> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me<img src="https://github.com/Felix45/Felix45/blob/main/puki.png" align="right" width="100">
+
+![Purple Pink Modern Programmer LinkedIn Banner](https://github.com/user-attachments/assets/df0500ab-0fbe-4bcb-9769-b0857635e11e)
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+> Innovative Full-Stack Developer with 6+ years of experience designing, building, and maintaining scalable web applications. Proven ability to lead the development of impactful digital solutions across education, e-commerce, and cybersecurity. Adept at collaborating remotely, mentoring developers, and delivering quality software using modern frameworks and best practices.
+
 ```JavaScript
 const aboutFelixOuma = {
-    fullName: "Felix Ouma",
-    pronouns: ["He", "Him"],
-    nationality: "Kenyan 🇰🇪",
-    jobStatus: ["Code Reviewer at Microverse"],
-    hobbies: ["Playing Football","Reading",
-              "Watching Football","Athletics", "Solving Coding Challenges"],
-    techStack:["JavaScript/React", "Ruby/Ruby on Rails","PHP/Laravel",
-              "Python", "TypeScript", "CSS", "HTML", "SQL", 
-              "Bootstrap", "REACT", "Tailwind CSS"
+    hobbies: ["Football","Reading", "Athletics", "Coding Challenges"],
+    techStack:["JavaScript/React", "Ruby/Ruby on Rails", "PHP/Laravel",
+               "Python", "TypeScript", "CSS", "HTML", "SQL", "Bootstrap", "REACT", "Tailwind CSS"
     ],
-    isWorkingNow: false,
+    isWorkingNow: true,
     educationLevel: {
         bachlorsDegree: "Bsc Mathematics & Computer Science JKUAT",
         fullStackDeveloper: "Microverse Inc.",
@@ -21,7 +19,7 @@ const aboutFelixOuma = {
     telephoneNumber: "+254724603324",
     socialMedias: ["LinkedIn", "Twitter"],
     codingEnviroment: "Github",
-    nowLearning: ["Game Development at Udemy & Edx"],
+    nowLearning: ["Data Science & Data Analytics"],
     lookingForNewOpportunities: true    
 }
 ```
