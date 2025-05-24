@@ -30,7 +30,7 @@ const aboutFelixOuma = {
 > **Statistics**
 
 
-| ![Felix Ouma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&hide_title=true&show_icons=true&theme=radical&card_width=200&count_private=true&hide_border=true)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix45&hide_border=true&layout=compact&langs_count=6&hide=Blade&exclude_repo=past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus)](https://github.com/anuraghazra/github-readme-stats)|
+| ![Felix Ouma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix45&hide_title=true&show_icons=true&theme=radical&card_width=200&count_private=true&hide_border=true)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix45&hide_border=true&layout=compact&langs_count=8&hide=Blade&exclude_repo=past-project,Questioner,StackOverflow-lite,survey-form,linterstest,Victor-et-Felix,hello-microverse,felix-and-shaili,animated-menus)](https://github.com/anuraghazra/github-readme-stats)|
 |-------------|------------------|
 
 
